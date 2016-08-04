@@ -1,0 +1,39 @@
+_repo: Sylvia-s-Lovers---Complete_4537
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Stevenson, Elizabeth
+    - Mills, Cotton Mather
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Mrs.
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: "Sylvia's Lovers (1863) is a novel written by Elizabeth Gaskell, which\
+  \ she called \"the saddest story I ever wrote\".\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4537'
+  wikidata: Q14566477
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Sylvia's Lovers — Complete
+url: http://www.gutenberg.org/ebooks/4537
+wikipedia:
+- https://cs.wikipedia.org/wiki/Sylviini_milenci
+- https://en.wikipedia.org/wiki/Sylvia%27s_Lovers
